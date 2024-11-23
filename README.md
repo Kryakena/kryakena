@@ -1,9 +1,12 @@
 ## Testing, coding and dancing under the moon ☕
+![sHq5TDhfAq8](https://github.com/user-attachments/assets/33fdc89c-d79e-4872-93fd-2806d159d11c)
+## Github Stats 🍄
 
-![untitled](https://github.com/user-attachments/assets/f19f42c2-6bc7-4390-ad75-b300beed5dde)
+hrefa <="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kryakena&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/kryakena/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kryakena&repo=convoychat" />
+</a>
+
 ![Kryakena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryakena&show_icons=true)
-[![Kryakena's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kryakena/github-readme-stats)
-<!--
-**Kryakena/kryakena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
