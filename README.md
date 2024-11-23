@@ -2,6 +2,7 @@
 
 ![untitled](https://github.com/user-attachments/assets/f19f42c2-6bc7-4390-ad75-b300beed5dde)
 ![Kryakena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryakena&show_icons=true)
+[![Kryakena's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kryakena/github-readme-stats)
 <!--
 **Kryakena/kryakena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
