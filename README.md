@@ -1,5 +1,6 @@
 ## Testing, coding and dancing under the moon ☕
-![sHq5TDhfAq8](https://github.com/user-attachments/assets/45b1770f-6a3f-4808-988f-e89ee7af96b3)
+![sHq5TDhfAq8](https://github.com/user-attachments/assets/45b1770f-6a3f-4808-988f-e89ee7af96b3) ![CR41x3rG_Gw](https://github.com/user-attachments/assets/acd14da8-a3dc-4af2-9dfc-d3ef1a17b7a1)
+
 
 ## Github Stats 🍄
 <details>
