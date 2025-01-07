@@ -1,11 +1,13 @@
-# Testing, coding and dancing under the moon ☕
+<h1 align="center">Testing, coding and dancing under the moon ☕</h1>
 
-![sHq5TDhfAq8](https://github.com/user-attachments/assets/45b1770f-6a3f-4808-988f-e89ee7af96b3) ![CR41x3rG_Gw](https://github.com/user-attachments/assets/acd14da8-a3dc-4af2-9dfc-d3ef1a17b7a1)
-
+<p align="center"><img src="https://github.com/user-attachments/assets/45b1770f-6a3f-4808-988f-e89ee7af96b3" alt="Kryakena" style="max-width: 100%;"></p>
+</br>
+<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kryakena&amp;radius=16&amp;theme=react&amp;area=true&amp;order=5" alt="Kryakena" style="max-width: 100%;"></p>
+</br>
+  
 ### Github Stats 🍄
 
-<details>
-  <summary>:zap: Statistics:</summary>
-  </br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kryakena&theme=tokyonight" /> <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryakena&layout=compact" />
-</details>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kryakena&amp;theme=dracula&amp;column=-1&amp;row=1&amp;margin-w=8&amp;margin-h=8&amp;no-bg=false&amp;no-frame=false&amp;order=4" alt="kryakena">
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kryakena&theme=tokyonight"> 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryakena&layout=compact">
+</br>
